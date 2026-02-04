@@ -1,5 +1,4 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "shintaro-plugins",
   "description": "Custom Claude Code plugins by shintaro",
   "owner": {

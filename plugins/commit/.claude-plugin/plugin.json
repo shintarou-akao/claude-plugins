@@ -1,5 +1,4 @@
 {
-  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
   "name": "commit",
   "version": "1.0.0",
   "description": "ステージされた変更から日本語のConventional Commitメッセージを生成し、コミットを実行する。",
