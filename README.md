@@ -27,8 +27,15 @@ claude-plugins/
 # マーケットプレース追加
 /plugin marketplace add shintaro/claude-plugins
 
-# プラグインインストール
-/plugin install my-first-skill@shintaro-plugins
+# プラグインインストール（例）
+/plugin install commit@shintaro-plugins
+/plugin install implement@shintaro-plugins
+/plugin install interview@shintaro-plugins
+/plugin install pr-generator@shintaro-plugins
+/plugin install pr-review-respond@shintaro-plugins
+/plugin install push@shintaro-plugins
+/plugin install skill-update@shintaro-plugins
+/plugin install spec-plan@shintaro-plugins
 ```
 
 ## 新しいプラグインを追加する
