@@ -28,7 +28,7 @@
     {
       "name": "pr-review-respond",
       "path": "plugins/pr-review-respond",
-      "description": "PRのレビューコメントを取得し、指摘事項に対応してコミット・プッシュを行う。"
+      "description": "PRのレビューコメントを取得し、指摘事項に対応してコミット・プッシュし、コメントに返信を行う。"
     }
   ]
 }
