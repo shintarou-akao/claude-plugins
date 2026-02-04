@@ -24,6 +24,11 @@
       "name": "pr-generator",
       "path": "plugins/pr-generator",
       "description": "PRテンプレートと変更差分を元にPR下書きを自動生成し、ghコマンドでdraft PRを作成する。"
+    },
+    {
+      "name": "pr-review-respond",
+      "path": "plugins/pr-review-respond",
+      "description": "PRのレビューコメントを取得し、指摘事項に対応してコミット・プッシュを行う。"
     }
   ]
 }

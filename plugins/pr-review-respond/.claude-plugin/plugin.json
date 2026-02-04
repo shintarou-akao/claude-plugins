@@ -1,0 +1,15 @@
+{
+  "name": "pr-review-respond",
+  "version": "1.0.0",
+  "description": "PRのレビューコメントを取得し、指摘事項に対応してコミット・プッシュを行う。",
+  "author": {
+    "name": "shintaro"
+  },
+  "skills": [
+    {
+      "name": "pr-review-respond",
+      "path": "skills/pr-review-respond/SKILL.md",
+      "description": "PRのレビューコメントを取得し、指摘事項に対応してコミット・プッシュを行う。"
+    }
+  ]
+}
