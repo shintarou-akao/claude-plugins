@@ -34,6 +34,11 @@
       "name": "interview",
       "path": "plugins/interview",
       "description": "ユーザーに詳細なインタビューを行い、仕様書を生成する。"
+    },
+    {
+      "name": "spec-plan",
+      "path": "plugins/spec-plan",
+      "description": "仕様書から詳細な実装計画を自動生成し、planファイルとして出力する。"
     }
   ]
 }
