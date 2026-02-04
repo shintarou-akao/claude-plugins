@@ -1,0 +1,15 @@
+{
+  "name": "skill-update",
+  "version": "1.0.0",
+  "description": "会話から得た学びをもとに既存スキルを更新する。",
+  "author": {
+    "name": "shintaro"
+  },
+  "skills": [
+    {
+      "name": "skill-update",
+      "path": "skills/skill-update/SKILL.md",
+      "description": "会話から得た学びやフィードバックをもとに既存スキルを更新する。"
+    }
+  ]
+}

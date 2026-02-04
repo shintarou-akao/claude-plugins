@@ -14,6 +14,11 @@
       "name": "push",
       "path": "plugins/push",
       "description": "現在のブランチをリモートにプッシュする。"
+    },
+    {
+      "name": "skill-update",
+      "path": "plugins/skill-update",
+      "description": "会話から得た学びをもとに既存スキルを更新する。"
     }
   ]
 }
