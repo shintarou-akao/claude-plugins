@@ -19,6 +19,11 @@
       "name": "skill-update",
       "path": "plugins/skill-update",
       "description": "会話から得た学びをもとに既存スキルを更新する。"
+    },
+    {
+      "name": "pr-generator",
+      "path": "plugins/pr-generator",
+      "description": "PRテンプレートと変更差分を元にPR下書きを自動生成し、ghコマンドでdraft PRを作成する。"
     }
   ]
 }
