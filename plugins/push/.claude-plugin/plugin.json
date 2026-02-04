@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "push",
+  "version": "1.0.0",
+  "description": "現在のブランチをリモートにプッシュする。",
+  "author": {
+    "name": "shintaro"
+  },
+  "skills": [
+    {
+      "name": "push",
+      "path": "skills/push/SKILL.md",
+      "description": "現在のブランチをリモートリポジトリにプッシュする。"
+    }
+  ]
+}

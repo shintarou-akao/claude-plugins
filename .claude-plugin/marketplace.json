@@ -10,6 +10,11 @@
       "name": "commit",
       "path": "plugins/commit",
       "description": "ステージされた変更から日本語のConventional Commitメッセージを生成し、コミットを実行する。"
+    },
+    {
+      "name": "push",
+      "path": "plugins/push",
+      "description": "現在のブランチをリモートにプッシュする。"
     }
   ]
 }
