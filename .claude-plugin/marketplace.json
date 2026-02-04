@@ -39,6 +39,11 @@
       "name": "spec-plan",
       "path": "plugins/spec-plan",
       "description": "仕様書から詳細な実装計画を自動生成し、planファイルとして出力する。"
+    },
+    {
+      "name": "implement",
+      "path": "plugins/implement",
+      "description": "planファイルに基づいて実装を実行し、チェックリストを更新しながら進捗を管理する。"
     }
   ]
 }
