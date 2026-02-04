@@ -1,0 +1,15 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "ユーザーに詳細なインタビューを行い、仕様書を生成する。",
+  "author": {
+    "name": "shintaro"
+  },
+  "skills": [
+    {
+      "name": "interview",
+      "path": "skills/interview/SKILL.md",
+      "description": "ユーザーに詳細なインタビューを行い、仕様書を生成する。"
+    }
+  ]
+}

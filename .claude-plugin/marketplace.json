@@ -29,6 +29,11 @@
       "name": "pr-review-respond",
       "path": "plugins/pr-review-respond",
       "description": "PRのレビューコメントを取得し、指摘事項に対応してコミット・プッシュし、コメントに返信を行う。"
+    },
+    {
+      "name": "interview",
+      "path": "plugins/interview",
+      "description": "ユーザーに詳細なインタビューを行い、仕様書を生成する。"
     }
   ]
 }
