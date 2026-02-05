@@ -8,7 +8,7 @@
   "skills": [
     {
       "name": "spec-plan",
-      "path": "skills/spec-plan/SKILL.md",
+      "source": "./skills/spec-plan/SKILL.md",
       "description": "仕様書から詳細な実装計画を自動生成し、planファイルとして出力する。"
     }
   ]

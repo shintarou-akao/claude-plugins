@@ -8,7 +8,7 @@
   "skills": [
     {
       "name": "commit-push-pr",
-      "path": "skills/commit-push-pr/SKILL.md",
+      "source": "./skills/commit-push-pr/SKILL.md",
       "description": "commit → push → pr-generator を順番に呼び出し、コミットからPR作成までを一連で実行する。"
     }
   ]

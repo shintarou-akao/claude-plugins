@@ -8,7 +8,7 @@
   "skills": [
     {
       "name": "push",
-      "path": "skills/push/SKILL.md",
+      "source": "./skills/push/SKILL.md",
       "description": "現在のブランチをリモートリポジトリにプッシュする。"
     }
   ]

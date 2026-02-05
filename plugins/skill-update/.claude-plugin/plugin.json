@@ -8,7 +8,7 @@
   "skills": [
     {
       "name": "skill-update",
-      "path": "skills/skill-update/SKILL.md",
+      "source": "./skills/skill-update/SKILL.md",
       "description": "会話から得た学びやフィードバックをもとに既存スキルを更新する。"
     }
   ]

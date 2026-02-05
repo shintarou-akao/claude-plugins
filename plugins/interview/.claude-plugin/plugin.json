@@ -8,7 +8,7 @@
   "skills": [
     {
       "name": "interview",
-      "path": "skills/interview/SKILL.md",
+      "source": "./skills/interview/SKILL.md",
       "description": "ユーザーに詳細なインタビューを行い、仕様書を生成する。"
     }
   ]

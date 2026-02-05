@@ -8,7 +8,7 @@
   "skills": [
     {
       "name": "commit",
-      "path": "skills/commit/SKILL.md",
+      "source": "./skills/commit/SKILL.md",
       "description": "ステージされた変更から日本語のConventional Commitメッセージを生成してコミットを実行する。"
     }
   ]

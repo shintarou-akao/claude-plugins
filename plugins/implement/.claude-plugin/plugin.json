@@ -8,7 +8,7 @@
   "skills": [
     {
       "name": "implement",
-      "path": "skills/implement/SKILL.md",
+      "source": "./skills/implement/SKILL.md",
       "description": "planファイルに基づいて実装を実行し、チェックリストを更新しながら進捗を管理する。"
     }
   ]
