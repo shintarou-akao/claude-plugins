@@ -7,47 +7,47 @@
   "plugins": [
     {
       "name": "commit",
-      "path": "plugins/commit",
+      "source": "./plugins/commit",
       "description": "ステージされた変更から日本語のConventional Commitメッセージを生成し、コミットを実行する。"
     },
     {
       "name": "commit-push-pr",
-      "path": "plugins/commit-push-pr",
+      "source": "./plugins/commit-push-pr",
       "description": "コミット・プッシュ・PR作成までの一連の手順を自動実行するオーケストレータプラグイン。"
     },
     {
       "name": "push",
-      "path": "plugins/push",
+      "source": "./plugins/push",
       "description": "現在のブランチをリモートにプッシュする。"
     },
     {
       "name": "skill-update",
-      "path": "plugins/skill-update",
+      "source": "./plugins/skill-update",
       "description": "会話から得た学びをもとに既存スキルを更新する。"
     },
     {
       "name": "pr-generator",
-      "path": "plugins/pr-generator",
+      "source": "./plugins/pr-generator",
       "description": "PRテンプレートと変更差分を元にPR下書きを自動生成し、ghコマンドでdraft PRを作成する。"
     },
     {
       "name": "pr-review-respond",
-      "path": "plugins/pr-review-respond",
+      "source": "./plugins/pr-review-respond",
       "description": "PRのレビューコメントを取得し、指摘事項に対応してコミット・プッシュし、コメントに返信を行う。"
     },
     {
       "name": "interview",
-      "path": "plugins/interview",
+      "source": "./plugins/interview",
       "description": "ユーザーに詳細なインタビューを行い、仕様書を生成する。"
     },
     {
       "name": "spec-plan",
-      "path": "plugins/spec-plan",
+      "source": "./plugins/spec-plan",
       "description": "仕様書から詳細な実装計画を自動生成し、planファイルとして出力する。"
     },
     {
       "name": "implement",
-      "path": "plugins/implement",
+      "source": "./plugins/implement",
       "description": "planファイルに基づいて実装を実行し、チェックリストを更新しながら進捗を管理する。"
     }
   ]
