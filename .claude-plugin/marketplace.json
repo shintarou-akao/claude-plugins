@@ -11,6 +11,11 @@
       "description": "ステージされた変更から日本語のConventional Commitメッセージを生成し、コミットを実行する。"
     },
     {
+      "name": "commit-push-pr",
+      "path": "plugins/commit-push-pr",
+      "description": "コミット・プッシュ・PR作成までの一連の手順を自動実行するオーケストレータプラグイン。"
+    },
+    {
       "name": "push",
       "path": "plugins/push",
       "description": "現在のブランチをリモートにプッシュする。"

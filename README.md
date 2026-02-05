@@ -29,6 +29,7 @@ claude-plugins/
 
 # プラグインインストール（例）
 /plugin install commit@shintaro-plugins
+/plugin install commit-push-pr@shintaro-plugins
 /plugin install implement@shintaro-plugins
 /plugin install interview@shintaro-plugins
 /plugin install pr-generator@shintaro-plugins
