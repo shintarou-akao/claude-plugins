@@ -6,10 +6,6 @@
     "name": "shintaro"
   },
   "skills": [
-    {
-      "name": "push",
-      "source": "./skills/push/SKILL.md",
-      "description": "現在のブランチをリモートリポジトリにプッシュする。"
-    }
+    "./skills/push"
   ]
 }

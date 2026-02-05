@@ -6,10 +6,6 @@
     "name": "shintaro"
   },
   "skills": [
-    {
-      "name": "skill-update",
-      "source": "./skills/skill-update/SKILL.md",
-      "description": "会話から得た学びやフィードバックをもとに既存スキルを更新する。"
-    }
+    "./skills/skill-update"
   ]
 }

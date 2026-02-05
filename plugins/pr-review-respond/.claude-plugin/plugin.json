@@ -6,10 +6,6 @@
     "name": "shintaro"
   },
   "skills": [
-    {
-      "name": "pr-review-respond",
-      "source": "./skills/pr-review-respond/SKILL.md",
-      "description": "PRのレビューコメントを取得し、指摘事項に対応してコミット・プッシュし、コメントに返信を行う。"
-    }
+    "./skills/pr-review-respond"
   ]
 }

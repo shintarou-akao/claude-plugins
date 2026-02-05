@@ -6,10 +6,6 @@
     "name": "shintaro"
   },
   "skills": [
-    {
-      "name": "commit",
-      "source": "./skills/commit/SKILL.md",
-      "description": "ステージされた変更から日本語のConventional Commitメッセージを生成してコミットを実行する。"
-    }
+    "./skills/commit"
   ]
 }

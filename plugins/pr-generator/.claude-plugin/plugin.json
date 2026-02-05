@@ -6,10 +6,6 @@
     "name": "shintaro"
   },
   "skills": [
-    {
-      "name": "pr-generator",
-      "source": "./skills/pr-generator/SKILL.md",
-      "description": "PRテンプレートと変更差分を元にPR下書きを自動生成し、draft PRを作成する。"
-    }
+    "./skills/pr-generator"
   ]
 }

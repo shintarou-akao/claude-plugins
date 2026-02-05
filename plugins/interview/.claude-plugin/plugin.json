@@ -6,10 +6,6 @@
     "name": "shintaro"
   },
   "skills": [
-    {
-      "name": "interview",
-      "source": "./skills/interview/SKILL.md",
-      "description": "ユーザーに詳細なインタビューを行い、仕様書を生成する。"
-    }
+    "./skills/interview"
   ]
 }
