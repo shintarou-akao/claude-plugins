@@ -26,8 +26,13 @@ description: ステージされた変更から日本語のConventional Commitメ
 
 ### 3. コミットの実行
 
-生成したメッセージで直接コミットを実行。
+生成したメッセージの末尾に `Co-Authored-By`署名を付けて実行。HEREDOCを使って署名の改行を正確に保つこと。
 
 ```bash
-git commit -m "<生成したコミットメッセージ>"
+git commit -m "$(cat <<'EOF'
+<生成したコミットメッセージ>
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+EOF
+)"
 ```
